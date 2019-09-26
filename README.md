@@ -46,3 +46,7 @@ Contains every gene annotation, with non IEA evidence, for each organisms. All l
 ## results.csv
 
 Contains clusterings curves for each GO term with at least two gene annotated.
+
+## preprocessed.tar.gz
+
+Contains processed data about genomes and annotations
