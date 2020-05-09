@@ -39,6 +39,10 @@ Downloaded from [here](http://www.geneontology.org/page/download-go-annotations)
 
 For humans downloaded from [here](http://www.ensembl.org/Human/Search/Results?q=centromere;site=ensembl_all;page=1;facet_feature_type=Sequence;facet_species=Human) and for scer downloaded from ...
 
+## LEA
+
+This files includes LEA information for each GO term presents in each organism.
+
 ## lists.cvs
 
 Contains every gene annotation, with non IEA evidence, for each organisms. All lists must have at least two gene annotated.
